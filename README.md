@@ -1,5 +1,8 @@
 ### Hi there 👋
+My name is Sunseehray, and I am a software development student at BYU Idaho. When I am not doing school work, I take care of my family's needs. I want to use my skills to build technologies that help me with my duties as a homemaker.
+
 * 🌱 I’m currently learning web frontend development
+* ⚡ Fun fact: I am a licensed civil engineer
 <!--
 **sunseehray/sunseehray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
