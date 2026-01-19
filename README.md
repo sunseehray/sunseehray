@@ -2,7 +2,6 @@
 My name is Sunseehray, and I am an aspiring software developer. When I am not doing school work, I take care of my family's needs. I want to use my skills to build technologies for home management.
 
 * 🌱 I’m currently studying software development at BYU Idaho
-* 🔭 I’m currently working on a grocery list web app
 * ⚡ Fun fact: I used to be a civil engineer
 <!--
 **sunseehray/sunseehray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on a grocery list web app
 -->
